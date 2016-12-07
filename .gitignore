@@ -1,0 +1,13 @@
+# Ignore for all projects based on Zephir
+
+.temp/
+.libs/
+*.gch
+*.lo
+*.la
+*.o
+*.loT
+ide/
+compile.log
+compile-errors.log
+
